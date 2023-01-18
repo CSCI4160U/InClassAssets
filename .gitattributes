@@ -1,0 +1,10 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+06a_First_Person_Controller/IndustrialPark.unitypackage filter=lfs diff=lfs merge=lfs -text
+=======
+06a_First_Person_Controller/IndustrialPark.unitypackage filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+10b_and_11a_Interaction/props.unitypackage filter=lfs diff=lfs merge=lfs -text
+>>>>>>> cf8ece3ec073e1b574392e7aafe45581d3b44c77
+06a_First_Person_Controller/IndustrialPark.unitypackage filter=lfs diff=lfs merge=lfs -text
