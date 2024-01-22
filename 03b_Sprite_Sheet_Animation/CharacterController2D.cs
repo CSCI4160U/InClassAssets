@@ -70,7 +70,6 @@ public class CharacterController2D : MonoBehaviour {
         }
     }
 
-
     public void Move(float move, bool crouch, bool jump) {
         if (!crouch) {
             if (Physics2D.OverlapCircle(ceilingPosition.position, ceilingRadius, groundLayers)) {
